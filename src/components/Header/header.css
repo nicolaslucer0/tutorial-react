@@ -1,0 +1,11 @@
+.header {
+    color: red;
+    display: flex;
+}
+
+.header .link {
+    padding-right: 10px;
+}
+
+
+/* EL css que vos quieras */
